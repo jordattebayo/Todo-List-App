@@ -1,7 +1,5 @@
 # Todo List App
 
-----
-
 A simple todo list app that I built with C# with the ASP.NET 5.0 framework. Built following [The Little ASP.NET Core Book](https://nbarbettini.gitbooks.io/little-asp-net-core-book) tutorial.
 
 ## Run
